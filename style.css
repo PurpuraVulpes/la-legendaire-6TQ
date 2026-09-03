@@ -92,7 +92,7 @@ img {
     align-items: flex-end;
     justify-content: center;
     /* 🔧 PERSONNALISE : Change cette image de fond */
-    background-image: images/imagedeplan.png;
+    background-image: url('images/imagedeplan.png');
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
