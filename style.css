@@ -92,7 +92,7 @@ img {
     align-items: flex-end;
     justify-content: center;
     /* 🔧 PERSONNALISE : Change cette image de fond */
-    background-image: url('https://images.unsplash.com/photo-1523580494863-6f3031224c94?w=1400&q=80');
+    background-image: images/imagedeplan.png;
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
